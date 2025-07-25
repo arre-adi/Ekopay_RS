@@ -1,0 +1,2 @@
+![356890430-1b92449f-2633-40b2-aa26-21bf831a616a](https://github.com/user-attachments/assets/7a97f3c7-3436-4be2-a85f-436f61e3ee0d)
+Ekopay is a pyment app that incentivizes user upon paying for eco friendly products and services.It rewards the extra effort each responsible cirtizen put to make earth a better place through their eco freindly choices.Users earn green credits based on the amount of carbon they offset by their purchase and these credits can then be sold to companies who are looking to offset their carbon emission.
